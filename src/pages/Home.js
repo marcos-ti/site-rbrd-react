@@ -40,7 +40,7 @@ export default function Home() {
                 Sobre
               </a>
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="documentos.html">
+                <a class="dropdown-item" href="#">
                   Documentos
                 </a>
               </div>
@@ -134,12 +134,7 @@ export default function Home() {
               class="image-fluid d-block d-md-block w-100"
               alt="slide-01"
             />
-            <div class="carousel-caption d-none d-md-block text-dark w-50 mx-auto">
-              <h3 class="h3CarouselImg">Conheça a Rede!</h3>
-              <p class="lead pCarouselImg">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
-            </div>
+            <div class="carousel-caption d-none d-md-block text-dark w-50 mx-auto"></div>
           </div>
           <div class="carousel-item">
             <img
@@ -147,12 +142,7 @@ export default function Home() {
               class="image-fluid d-block d-md-block w-100"
               alt="slide-02"
             />
-            <div class="carousel-caption d-none d-md-block text-dark w-50 mx-auto">
-              <h3 class="h3CarouselImg">Acesse nossos documentos</h3>
-              <p class="lead pCarouselImg">
-                Donec vulputate sapien vitae nunc venenatis condimentum.
-              </p>
-            </div>
+            <div class="carousel-caption d-none d-md-block text-dark w-50 mx-auto"></div>
           </div>
           <div class="carousel-item">
             <img
@@ -160,12 +150,7 @@ export default function Home() {
               class="image-fluid d-block d-md-block w-100"
               alt="slide-03"
             />
-            <div class="carousel-caption d-none d-md-block text-dark w-50 mx-auto">
-              <h3 class="h3CarouselImg">Veja nossas publicações!</h3>
-              <p class="lead pCarouselImg">
-                Maecenas non purus dictum, aliquam mi eget, pulvinar ex.
-              </p>
-            </div>
+            <div class="carousel-caption d-none d-md-block text-dark w-50 mx-auto"></div>
           </div>
         </div>
         <a
